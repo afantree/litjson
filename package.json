@@ -1,0 +1,9 @@
+{
+  "name": "com.github.litjson",
+  "displayName": "LitJson",
+  "description": "A .Net library to handle conversions from and to JSON (JavaScript Object Notation) strings.",
+  "version": "11.0.0",
+  "unity": "2018.3",
+  "license": "MIT",
+  "dependencies": {}
+}
